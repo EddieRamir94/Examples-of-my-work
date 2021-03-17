@@ -12,7 +12,7 @@ The files in this repository were used to configure the network depicted below.
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the yaml file may be used to install only certain pieces of it, such as Filebeat.
 
-- install0elk.yml
+- elk.yml
 
 ---
   - name: Configure Elk VM with Docker
@@ -64,7 +64,7 @@ These files have been tested and used to generate a live ELK deployment on Azure
       - name: Enable service docker on boot
         systemd:
           name: docker
-          enabled: yes         
+          enabled: yes 
 
 
 This document contains the following details:
