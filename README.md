@@ -13,7 +13,7 @@ The files in this repository were used to configure the network depicted below.
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the yaml file may be used to install only certain pieces of it, such as Filebeat.
 
-Elk.yml
+Elk.yml in /etc/ansible/Elk.yml
 
 
 ![Elk yml 1](https://user-images.githubusercontent.com/80176135/111422037-44fea200-86ab-11eb-8d52-4989944b69e9.PNG)
