@@ -1,5 +1,5 @@
 # Examples-of-my-work
-Collection of work that I have done either on own time or through school.
+Collection of work that I have completed through Arizona State University Cyber Security Boot Camp
 ## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
